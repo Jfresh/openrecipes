@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Recipes
 
 ***[Download the latest DB dump](http://openrecipes.s3.amazonaws.com/recipeitems-latest.json.gz)***
@@ -70,3 +71,7 @@ We're also gonna be on IRC, so please feel free to join us if you have any quest
     # [...]
     recipes.append(il.load_item())
     ```
+=======
+my_stuff
+========
+>>>>>>> 9e2db382b6e36b3dc6d28d44d4d15d61922ea265
